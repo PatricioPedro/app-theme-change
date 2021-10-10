@@ -1,6 +1,7 @@
 # app_theme_change
 
-A new Flutter project.
+I created this app to pratice management state introductory concepts in Flutter, Basically I used 
+Singleton pattern and AnimatedBuilder widget to make it possible
 
 ## Getting Started
 
